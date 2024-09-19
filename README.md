@@ -1,7 +1,7 @@
 
 # Projeto de Nivelamento
 
-Este foi um projeto de conclusão de semestre da matéria de "Aplicações para a internet", de Análise e Desenvolvimento de Sistemas.
+Este foi um projeto de conclusão de semestre da matéria de "Aplicações para a internet", de Análise e Desenvolvimento de Sistemas. Projeto realizado em 06/2022.
 
 # Descrição
 
